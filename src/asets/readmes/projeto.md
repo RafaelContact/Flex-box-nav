@@ -18,14 +18,17 @@ A principal dúvida que tive ao ver projetos de amigos foi em questão a respons
 Alguns fizeram movimentações dos botões, eu fiz apenas o hover com troca de cor igualmente proposto.
 O que digo é que o botão talvez poderia ter ficado melhor! 
 
-![ImagemDaAnalize]()
+![ImagemDaAnalize](../planejamento/2022-11-05_03-09.png)
 
 ## Etapa 2
 
 Criar a estutura base de pastas 
 
-![EstruturaImagem]()
+![EstruturaImagem](../planejamento/estruturaDePastas.png)
 
 Inicializar o git
 
-##
+## etapa 3 
+
+Criar a estrutura inicial do HTML 
+![CodandoHTML](../planejamento/estruturaDePastas.png)
