@@ -5,7 +5,7 @@ Aqui um conceito sobre organização de projetos :
 
 ## Etapa 1 
 
-Analizando  o projeto, de forma geral por ser pequeno não irá haver componentização de elementos aqui, as minhas dúvidas foram : 
+**Analizando  o projeto**, de forma geral por ser pequeno não irá haver componentização de elementos aqui, as minhas dúvidas foram : 
 
 [x] O quanto seguir a risca os projetos do figma
 [x] Misturar o css que aprendi anteriormente com flex-box arrumando os elementos, e assim deixar o código menos "hard code" como eu estava fazendo.
@@ -22,7 +22,7 @@ O que digo é que o botão talvez poderia ter ficado melhor!
 
 ## Etapa 2
 
-Criar a estutura base de pastas 
+Criar a **estutura base de pastas** 
 
 ![EstruturaImagem](../planejamento/estruturaDePastas.png)
 
@@ -30,5 +30,13 @@ Inicializar o git
 
 ## etapa 3 
 
-Criar a estrutura inicial do HTML 
+Criar a **estrutura inicial do HTML** 
 ![CodandoHTML](../planejamento/estruturaDePastas.png)
+
+## etapa 4
+
+criar a **estrutura do css.** 
+[x] Pode-se criar a folha de reseat 
+[x] Criar a folha de style.
+[x] Baixar a fonte no google fonts com bold 800, 400 , 300
+![Google_Fonts](https://fonts.google.com/specimen/Public+Sans?query=public+sans)
