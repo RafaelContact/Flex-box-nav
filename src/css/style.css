@@ -26,6 +26,7 @@
     padding: 10px 5px;
     transition: 0.3 ease-in-out; 
     margin-left: 1.5rem;
+    font-size: 1.5rem;
 }
 .menu li a:hover{
     background-color: var(--buton-color );
