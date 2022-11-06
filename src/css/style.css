@@ -1,5 +1,5 @@
 .header{
-    background-color: red;
+    /* background-color: red; */
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -9,10 +9,31 @@
     display: flex;
     align-items: center;
     /* ajustando elementos !! */
-    background-color: orange;
+    /* background-color: orange; */
 }
 .logo h1 {
     font-size: 2rem;
     font-weight: 800;
     margin-left: 5px;
+}
+
+.menu{
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+}
+.menu li a {
+    padding: 10px 5px;
+    transition: 0.3 ease-in-out;
+}
+.menu li a:hover{
+    background-color: var(--buton-color );
+}
+
+.menu li a.btn{
+    /* no lugar de usar o button dentro de um form, ou pseudo classe , usou apenas uma classe btn */
+    background-color: var(--buton-color);
+    border-radius: 10px;
+    color: #ffffff;
+    margin-left: 3rem;
 }
