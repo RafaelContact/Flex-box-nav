@@ -40,3 +40,9 @@ criar a **estrutura do css.**
 [x] Criar a folha de style.
 [x] Baixar a fonte no google fonts com bold 800, 400 , 300
 ![Google_Fonts](https://fonts.google.com/specimen/Public+Sans?query=public+sans)
+
+Somente projetos maiores conseguem determinar exatamente o ponto de quebra do código , então caso o código venha apenas com 2 pontos de quebra, não se esqueça de colocar pontos de quebra no layout para dispositivos como tablets e ipads.
+Os pontos de quebra desse projeto são : 
+
+-- 375px mobile
+
