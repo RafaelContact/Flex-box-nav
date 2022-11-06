@@ -31,33 +31,37 @@ A principal dúvida que tive ao ver projetos de amigos foi em questão a respons
 Alguns fizeram movimentações dos botões, eu fiz apenas o hover com troca de cor igualmente proposto.
 O que digo é que o botão talvez poderia ter ficado melhor! 
 
-![ImagemDaAnalize](../planejamento/2022-11-05_03-09.png)
+- [x] criar planejamento do exercício
+
+![Imagem Da Analize](../planejamento/2022-11-05_03-09.png)
 
 ## Etapa 2
 
-Criar a **estutura base de pastas** 
+- [x] Criar a **estutura base de pastas** 
 
 ![EstruturaImagem](../planejamento/estruturaDePastas.png)
 
-Inicializar o git
+- [x] Inicializar o git
 
-## etapa 3 
+## Etapa 3 
 
-Criar a **estrutura inicial do HTML** 
+- [x] Criar a **estrutura inicial do HTML** 
+
+
 ![CodandoHTML](../planejamento/estruturaDePastas.png)
 
-## etapa 4
+## Etapa 4
 
 
-criar a **estrutura do css.** 
+- [x] criar a **estrutura do css.** 
 
-[x] Pode-se criar a folha de reseat 
+- [x] Pode-se criar a folha de reseat 
 
-[x] Criar a folha de style.
+- [x] Criar a folha de style.
 
-[x] Baixar a fonte no google fonts com bold 800, 400 , 300
+- [x] Baixar a fonte no google fonts com bold 800, 400 , 300
 
-![Google_Fonts](https://fonts.google.com/specimen/Public+Sans?query=public+sans)
+![Google Fonts](https://fonts.google.com/specimen/Public+Sans?query=public+sans)
 
 Somente projetos maiores conseguem determinar exatamente o ponto de quebra do código , então caso o código venha apenas com 2 pontos de quebra, não se esqueça de colocar pontos de quebra no layout para dispositivos como tablets e ipads.
 Os pontos de quebra desse projeto são : 
